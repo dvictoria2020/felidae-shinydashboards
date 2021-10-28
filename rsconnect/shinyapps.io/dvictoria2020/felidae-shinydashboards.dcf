@@ -1,0 +1,14 @@
+name: felidae-shinydashboards
+title: felidae-shinydashboards
+username:
+account: dvictoria2020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4985650
+bundleId: 5184708
+url: https://dvictoria2020.shinyapps.io/felidae-shinydashboards/
+when: 1635383077.12606
+lastSyncTime: 1635383077.12606
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
